@@ -239,8 +239,8 @@ import { LeaveAdmin } from "./views/admin/leaveManagement/LeaveAdmin.jsx";
 import { LeavePage } from "./views/employee/LeaveSection/LeavePage.jsx";
 import ChequeExpense from "./newComponents/expense/ChequeExpense.jsx";
 import DailyExpense from "./newComponents/expense/DailyExpense.jsx";
-import Department from "./newComponents/Department/Department.jsx";
-import Designation from "./newComponents/Designation/Designation.jsx";
+import Department from "./newComponents/department/Department.jsx";
+import Designation from "./newComponents/designation/Designation.jsx";
 import AddMyLead from "./newComponents/leadManagement/AddMyLead.jsx"
 import AddAdmin from "./newComponents/UserManagement/AddAdmin.jsx"
 import AssignCompany from "./newComponents/UserManagement/AssignCompany.jsx";
